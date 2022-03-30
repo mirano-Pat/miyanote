@@ -6,7 +6,7 @@ Overview
 Prepared for the purpose of providing laboratory handover materials for mechanical engineering. 
 However, regardless of which lab you are assigned to, you will probably be expected to use this guidebook.
 
-機械工学の研究室引継ぎ資料を提供する目的で作成。
+部活．そして機械工学の研究室引継ぎ資料を提供する目的で作成。
 ただし、どの研究室でも腐ることはありません。
 どの研究室に配属されたとしても、おそらくこれらのツールは最低限必須と思います。 
 
